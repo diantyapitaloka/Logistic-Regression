@@ -61,6 +61,7 @@ After the model is trained, we can test the model's accuracy on the test set by 
 
 ## 🌾🌵🌴 Output 🌴🌵🌾
 So the results are as follows.
+
 ![image](https://github.com/diantyapitaloka/Logistic-Regression/assets/147487436/9ba02d07-d37d-445c-a5f6-3064e609c5a7)
 
 
