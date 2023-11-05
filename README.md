@@ -24,10 +24,10 @@ Meanwhile, the results of the df.info() function are displayed as follows.
 ## 🌾🌵🌴 Remove Useless Function 🌴🌵🌾
 In the dataset there is a 'User ID' column. This column is an attribute that is not important for the model to learn so it needs to be removed. To remove a column from a dataframe, use the drop function. Don't forget to call the get_dummies() function to carry out the One-Hot Encoding process because the labels in our dataset are categorical data.
 
-drop columns that are not needed.
+Drop columns that are not needed.
 - data = df.drop(columns=['User ID'])
  
-run the one-hot encoding process with pd.get_dummies().
+Run the one-hot encoding process with pd.get_dummies().
 - data = pd.get_dummies(data)
 - data
 
