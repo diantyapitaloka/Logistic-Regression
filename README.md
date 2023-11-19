@@ -1,9 +1,9 @@
 ## 🌾🌵🌴 Logistic Regression 🌴🌵🌾
 Using logistic regression to predict whether someone will buy after seeing an advertisement for a product.
 
-'''
+```
 import pandas as pd
-'''
+```
  
 ## 🌾🌵🌴 Reading Dataset and Converting into Dataframe
 converting the dataset into a Pandas dataframe. Don't forget to import the basic library and adjust the data path/location.
