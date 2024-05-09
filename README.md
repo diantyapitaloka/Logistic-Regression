@@ -48,7 +48,7 @@ When the above code is executed the results are as below.
 ![image](https://github.com/diantyapitaloka/Logistic-Regression/assets/147487436/9218057f-7ba6-4062-850f-49d513e15e39)
 
 ## 🌾🌵🌴 Showing Attributes and Labels 🌴🌵🌾
-Then we separate attributes and labels.
+Then we separate attributes and labels as shown below
 ```
 predictions = ['Age' , 'EstimatedSalary' , 'Gender_Female' , 'Gender_Male']
 X = data[predictions]
