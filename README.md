@@ -17,7 +17,7 @@ In the next cell, use the head() function on the dataframe to see the first 5 ro
 df.head()
 ```
 
-The results of the df.head() function are as below.
+The results of the df.head() function are as shown below.
 ![image](https://github.com/diantyapitaloka/Logistic-Regression/assets/147487436/c4443d0f-4f3b-4354-b470-419ee2bc65a9)
 
 ## 🌾🌵🌴 Find Duplicate Data 🌴🌵🌾
