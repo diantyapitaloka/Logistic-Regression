@@ -1,5 +1,6 @@
 ## 🌾🌵🌴 Logistic Regression 🌴🌵🌾
 - Using logistic regression to predict whether someone will buy after seeing an advertisement for a product.
+- Binary Classification: The model focuses on a categorical outcome where the result is either a 1 (purchase) or a 0 (no purchase). This allows marketers to move beyond simple guessing and use data to categorize potential customers effectively.
 
 ```
 import pandas as pd
