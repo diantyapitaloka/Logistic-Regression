@@ -3,6 +3,7 @@
 - Binary Classification: The model focuses on a categorical outcome where the result is either a 1 (purchase) or a 0 (no purchase). This allows marketers to move beyond simple guessing and use data to categorize potential customers effectively.
 - Logit Link Function: Unlike linear regression which predicts continuous numbers, logistic regression uses a specific mathematical function to keep predictions between 0 and 1. This ensures that the output always represents a valid probability percentage rather than an impossible value.
 - Feature Input: The model analyzes various "features" such as the user's age, browsing history, and the time of day the ad was displayed. By weighing these variables, the algorithm identifies which factors are the strongest predictors of a completed sale.
+- Probability Thresholds: Once the model calculates a probability, a "decision boundary"—usually 0.5—is applied to make a final prediction. If the probability is 0.75, the model classifies that user as a "likely buyer" and may increase the ad spend for that individual.
 
 ```
 import pandas as pd
