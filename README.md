@@ -1,5 +1,5 @@
 ## 🌾🌵🌴 Logistic Regression 🌴🌵🌾
-Using logistic regression to predict whether someone will buy after seeing an advertisement for a product.
+- Using logistic regression to predict whether someone will buy after seeing an advertisement for a product.
 
 ```
 import pandas as pd
