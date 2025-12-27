@@ -5,6 +5,7 @@
 - Feature Input: The model analyzes various "features" such as the user's age, browsing history, and the time of day the ad was displayed. By weighing these variables, the algorithm identifies which factors are the strongest predictors of a completed sale.
 - Probability Thresholds: Once the model calculates a probability, a "decision boundary"—usually 0.5—is applied to make a final prediction. If the probability is 0.75, the model classifies that user as a "likely buyer" and may increase the ad spend for that individual.
 - Coefficients and Insights: Each input variable is assigned a weight, or coefficient, that shows the strength of its relationship with the purchase decision. For instance, a high coefficient for "previous site visits" suggests that retargeting existing fans is more effective than reaching new ones.
+- Model Evaluation: Marketers use a "Confusion Matrix" to see how many purchases were correctly predicted versus how many were missed. This feedback loop allows data scientists to refine the ad campaign for better accuracy and higher return on investment.
 
 ```
 import pandas as pd
